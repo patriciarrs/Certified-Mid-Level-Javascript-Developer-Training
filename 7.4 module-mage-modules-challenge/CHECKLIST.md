@@ -1,1 +1,10 @@
 - The arcane academy displayed as expected
+
+---
+
+### JavaScript Modules
+
+JavaScript modules allow us to split up our scripts into various files for the sake of organization and encapsulation.
+Read up on how they work and how to use them to prepare for the exam.
+
+- [JavaScript.info > Modules](https://javascript.info/modules)
