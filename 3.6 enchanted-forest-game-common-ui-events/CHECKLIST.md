@@ -1,1 +1,9 @@
 - The console displays the expected output
+
+---
+
+### Common UI Events
+
+There are a plenty of user triggered events that JavaScript developers can listen for. You should be familiar with some of the most commons ones: mouse events, scroll, pointer events, and keyboard events:
+
+- [JavaScript.info > UI Events](https://javascript.info/event-details)

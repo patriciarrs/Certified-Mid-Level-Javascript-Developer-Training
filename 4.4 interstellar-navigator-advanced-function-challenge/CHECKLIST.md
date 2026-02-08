@@ -2,3 +2,15 @@
 - The star count should initialize correctly and increment/decrement accurately.
 - The signals should be emitted at 100ms intervals with the correct class added and removed.
 - The cosmic adjuster should add the correct number of elements to each container.
+
+---
+
+### Other Advanced Function Concepts
+
+Functions and closures are closely coupled concepts that any advanced JavaScript dev should be familiar with.
+Immediately invoked function expression (or IIFEs) are also a useful tool for the advanced dev.
+For the exam, be familiar with both of these concepts.
+
+- [MDN > Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [MDN > IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+- [Method Chaining in JavaScript](https://www.geeksforgeeks.org/method-chaining-in-javascript/)
