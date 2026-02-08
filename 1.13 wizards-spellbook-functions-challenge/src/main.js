@@ -11,7 +11,7 @@ console.log(createPotion("shadow essence", "vampire tears", "phoenix ash"));
 /* 2. Function expression */
 const castCharm = function (name) {
     return `May luck and fortune smile upon ${name}!`;
-}
+};
 
 console.log(castCharm("Elara the Elf"));
 
@@ -53,7 +53,7 @@ console.log(determineSpellStrength(150));
 /* 6. Callback Function */
 const transformIngredients = (ingredients, transformation) => {
     return ingredients.map(ingredient => transformation(ingredient));
-}
+};
 
 console.log(transformIngredients([
     'newt eyes',
